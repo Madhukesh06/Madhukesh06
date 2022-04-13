@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhukesh06
-- 👀 I’m interested in JavaScript , reactjs , HTML ,CSS , Nodejs
-- 🌱 I’m currently learning  Full stack web developement 
+- 👀 I’m Learning JavaScript , reactjs , HTML ,CSS , Nodejs
+- 🌱 I’m currently doing Full stack web developement course 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 
