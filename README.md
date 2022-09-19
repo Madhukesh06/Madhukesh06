@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Madhukesh Kumar Thakur
 👋 Hi, I’m @Madhukesh06<br>🌱 I'm a Full Stack Web Developer skilled in MERN stack<br>💞️ I’m always open to work on collaborative projects<br>
  :sassy_man:
 :My portfolio - https://madhukesh06.github.io/
