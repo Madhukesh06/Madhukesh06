@@ -1,9 +1,9 @@
 # 💫 About Me: Madhukesh Kumar Thakur
 
 👋 Hi, I’m @Madhukesh06<br>🌱 I'm a Full Stack Web Developer skilled in MERN stack<br>💞️ I’m always open to work on collaborative projects<br>
- :sassy_man: <a href="https://madhukesh06.github.io/" target="_blank">
+ :sassy_man: <a href="https://madhukesh06.github.io/" target="_blank" >
 My portfolio </a>
-
+[go](http://stackoverflow.com){:target="_blank"}?
 
 
 [![](https://visitcount.itsvg.in/api?id=Madhukesh06&icon=2&color=0)](https://visitcount.itsvg.in)
