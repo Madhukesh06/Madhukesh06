@@ -17,6 +17,7 @@ My portfolio </a>
 ![](https://github-readme-stats.vercel.app/api?username=Madhukesh06&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Madhukesh06&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukesh06&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://activity-graph.herokuapp.com/graph?username=Madhukesh06&theme=react-dark)](https://github.com/Madhukesh06/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Madhukesh06&theme=discord&no-frame=false&no-bg=true&margin-w=4)
